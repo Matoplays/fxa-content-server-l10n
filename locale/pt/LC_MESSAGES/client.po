@@ -437,7 +437,7 @@ msgstr "Separadores"
 
 #: app/scripts/lib/strings.js:30
 msgid "Passwords"
-msgstr "Senhas"
+msgstr "Palavras-passe"
 
 #: app/scripts/lib/strings.js:31
 msgid "Desktop Add-ons"
